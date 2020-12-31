@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="disk"
+  id="myeclipse.1364192938812"
+  context-root="/disk"
+  j2ee-spec="5.0"
+  archive="disk.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
+

@@ -1,0 +1,67 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="disk:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/disk_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="disk" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="ant.jar" module-name="disk" />
+          <element id="library" level="module" name="antlr-2.7.6.jar" module-name="disk" />
+          <element id="library" level="module" name="aopalliance.jar" module-name="disk" />
+          <element id="library" level="module" name="aspectjweaver-1.6.8.jar" module-name="disk" />
+          <element id="library" level="module" name="bcmail-jdk14-138.jar" module-name="disk" />
+          <element id="library" level="module" name="bcprov-jdk14-138.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-collections-3.1.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-dbcp-1.4.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-fileupload-1.2.2.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-io-1.4.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-logging-1.1.1.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-logging-api-1.1.1.jar" module-name="disk" />
+          <element id="library" level="module" name="commons-pool-1.5.4.jar" module-name="disk" />
+          <element id="library" level="module" name="dom4j-1.6.1.jar" module-name="disk" />
+          <element id="library" level="module" name="dx.jar" module-name="disk" />
+          <element id="library" level="module" name="freemarker-2.3.19.jar" module-name="disk" />
+          <element id="library" level="module" name="gson-2.2.2.jar" module-name="disk" />
+          <element id="library" level="module" name="hibernate-jpa-2.0-api-1.0.1.Final.jar" module-name="disk" />
+          <element id="library" level="module" name="hibernate3.jar" module-name="disk" />
+          <element id="library" level="module" name="iText-2.1.4.jar" module-name="disk" />
+          <element id="library" level="module" name="jacob.jar" module-name="disk" />
+          <element id="library" level="module" name="javassist-3.12.0.GA.jar" module-name="disk" />
+          <element id="library" level="module" name="jaxen-core.jar" module-name="disk" />
+          <element id="library" level="module" name="jaxen-jdom.jar" module-name="disk" />
+          <element id="library" level="module" name="jcom.jar" module-name="disk" />
+          <element id="library" level="module" name="jdom.jar" module-name="disk" />
+          <element id="library" level="module" name="jstl.jar" module-name="disk" />
+          <element id="library" level="module" name="jta-1.1.jar" module-name="disk" />
+          <element id="library" level="module" name="log4j-1.2.16.jar" module-name="disk" />
+          <element id="library" level="module" name="log4j-1.2.8.jar" module-name="disk" />
+          <element id="library" level="module" name="mysql-connector-java-5.1.22-bin.jar" module-name="disk" />
+          <element id="library" level="module" name="ognl-3.0.jar" module-name="disk" />
+          <element id="library" level="module" name="ojdbc14.jar" module-name="disk" />
+          <element id="library" level="module" name="saxpath.jar" module-name="disk" />
+          <element id="library" level="module" name="slf4j-api-1.6.1.jar" module-name="disk" />
+          <element id="library" level="module" name="slf4j-log4j12-1.6.1.jar" module-name="disk" />
+          <element id="library" level="module" name="smartupload.jar" module-name="disk" />
+          <element id="library" level="module" name="spring-all-2.5.jar" module-name="disk" />
+          <element id="library" level="module" name="standard.jar" module-name="disk" />
+          <element id="library" level="module" name="struts2-core-2.2.1.jar" module-name="disk" />
+          <element id="library" level="module" name="struts2-dojo-plugin-2.2.3.jar" module-name="disk" />
+          <element id="library" level="module" name="struts2-jfreechart-plugin-2.1.8.1.jar" module-name="disk" />
+          <element id="library" level="module" name="struts2-json-plugin-2.1.8.1.jar" module-name="disk" />
+          <element id="library" level="module" name="struts2-spring-plugin-2.2.1.jar" module-name="disk" />
+          <element id="library" level="module" name="xalan.jar" module-name="disk" />
+          <element id="library" level="module" name="xerces-2.6.2.jar" module-name="disk" />
+          <element id="library" level="module" name="xerces.jar" module-name="disk" />
+          <element id="library" level="module" name="xwork-core-2.2.1.jar" module-name="disk" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="lib1" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="disk/web/Web" />
+    </root>
+  </artifact>
+</component>
